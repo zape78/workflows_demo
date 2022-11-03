@@ -7,4 +7,4 @@ def main():
         raise Exception('Python version 3.6.x is unsupported!')
 
 if __name__ == "__main__":
-    main()
+    main() 
